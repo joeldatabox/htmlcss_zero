@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background: #000 url("../images/background-header.jpg") no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding-top: 30px;
+}
+
+/*Todos os elementos de a contidos no #header*/
+#header a {
+    color: #ffffff;
+}
